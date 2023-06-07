@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @NeptuneManifold
 - 👀 I’m interested in Developpement and Minecraft
 - 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on Developpement
-- 📫 How to reach me idk
+- 📫 You can reach me on Discord (NeptuneManifold#3959)
 
 <!---
 NeptuneManifold/NeptuneManifold is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
